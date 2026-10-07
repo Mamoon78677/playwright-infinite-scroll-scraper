@@ -1,0 +1,1302 @@
+[
+    {
+        "Title": "Mercedes-Benz W123 280E 1955",
+        "Details": {
+            "Description": "Uncompromising Stuttgart saloon",
+            "Price": "USD 228 511",
+            "Year": "1955",
+            "Country": "United Kingdom",
+            "Mileage": "104 338 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001"
+            }
+        }
+    },
+    {
+        "Title": "BMW E24 635CSi 1954",
+        "Details": {
+            "Description": "Shark-nose grand tourer",
+            "Price": "USD 18 457",
+            "Year": "1954",
+            "Country": "Germany",
+            "Mileage": "189 886 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002"
+            }
+        }
+    },
+    {
+        "Title": "Jaguar XJ6 1983",
+        "Details": {
+            "Description": "Silky British luxury saloon",
+            "Price": "USD 268 210",
+            "Year": "1983",
+            "Country": "Germany",
+            "Mileage": "119 395 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003"
+            }
+        }
+    },
+    {
+        "Title": "Nissan 300ZX Z31 1966",
+        "Details": {
+            "Description": "Angular Japanese sports coupe",
+            "Price": "USD 104 195",
+            "Year": "1966",
+            "Country": "Japan",
+            "Mileage": "134 738 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004"
+            }
+        }
+    },
+    {
+        "Title": "Ferrari F40 1984",
+        "Details": {
+            "Description": "Raw Prancing Horse icon",
+            "Price": "USD 277 672",
+            "Year": "1984",
+            "Country": "Italy",
+            "Mileage": "141 828 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ferrari-f40-1984-c005"
+            }
+        }
+    },
+    {
+        "Title": "Mercedes-Benz W123 280E 1972",
+        "Details": {
+            "Description": "Early W123, driver condition",
+            "Price": "USD 157 569",
+            "Year": "1972",
+            "Country": "Germany",
+            "Mileage": "31 412 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006"
+            }
+        }
+    },
+    {
+        "Title": "Toyota 2000GT 1970",
+        "Details": {
+            "Description": "Japan's landmark sports car",
+            "Price": "USD 152 646",
+            "Year": "1970",
+            "Country": "Germany",
+            "Mileage": "182 543 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/toyota-2000gt-1970-c007"
+            }
+        }
+    },
+    {
+        "Title": "Toyota MR2 AW11 1969",
+        "Details": {
+            "Description": "Concours mid-engine two-seater",
+            "Price": "USD 91 619",
+            "Year": "1969",
+            "Country": "Japan",
+            "Mileage": "150 555 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/toyota-mr2-aw11-1969-c008"
+            }
+        }
+    },
+    {
+        "Title": "Nissan 300ZX Z31 1978",
+        "Details": {
+            "Description": "Z31 restoration project",
+            "Price": "USD 174 281",
+            "Year": "1978",
+            "Country": "Japan",
+            "Mileage": "160 903 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/nissan-300zx-z31-1978-c009"
+            }
+        }
+    },
+    {
+        "Title": "Ferrari 308 GTS 1970",
+        "Details": {
+            "Description": "Pininfarina Targa, restored",
+            "Price": "USD 153 699",
+            "Year": "1970",
+            "Country": "Japan",
+            "Mileage": "213 735 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ferrari-308-gts-1970-c010"
+            }
+        }
+    },
+    {
+        "Title": "Porsche 911 Carrera 1980",
+        "Details": {
+            "Description": "Air-cooled Carrera, driver",
+            "Price": "USD 273 100",
+            "Year": "1980",
+            "Country": "Germany",
+            "Mileage": "73 759 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/porsche-911-carrera-1980-c011"
+            }
+        }
+    },
+    {
+        "Title": "Ford GT40 1973",
+        "Details": {
+            "Description": "Le Mans homologation coupe",
+            "Price": "USD 235 600",
+            "Year": "1973",
+            "Country": "Italy",
+            "Mileage": "212 581 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ford-gt40-1973-c012"
+            }
+        }
+    },
+    {
+        "Title": "Toyota AE86 Sprinter Trueno 1954",
+        "Details": {
+            "Description": "Rear-drive twin-cam coupe",
+            "Price": "USD 170 136",
+            "Year": "1954",
+            "Country": "United Kingdom",
+            "Mileage": "114 768 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/toyota-ae86-sprinter-trueno-1954-c013"
+            }
+        }
+    },
+    {
+        "Title": "Jaguar XJ6 1986",
+        "Details": {
+            "Description": "Late-series XJ6, driver",
+            "Price": "USD 314 641",
+            "Year": "1986",
+            "Country": "United Kingdom",
+            "Mileage": "27 784 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/jaguar-xj6-1986-c014"
+            }
+        }
+    },
+    {
+        "Title": "Porsche 928 S4 1973",
+        "Details": {
+            "Description": "Transaxle grand tourer, Concours",
+            "Price": "USD 130 792",
+            "Year": "1973",
+            "Country": "United Kingdom",
+            "Mileage": "167 070 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/porsche-928-s4-1973-c015"
+            }
+        }
+    },
+    {
+        "Title": "Ford GT40 1952",
+        "Details": {
+            "Description": "GT40, driver condition",
+            "Price": "USD 333 273",
+            "Year": "1952",
+            "Country": "United States",
+            "Mileage": "152 565 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ford-gt40-1952-c016"
+            }
+        }
+    },
+    {
+        "Title": "BMW 2002 1978",
+        "Details": {
+            "Description": "Concours 2002, five-speed",
+            "Price": "USD 336 315",
+            "Year": "1978",
+            "Country": "Italy",
+            "Mileage": "181 589 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/bmw-2002-1978-c017"
+            }
+        }
+    },
+    {
+        "Title": "Nissan Fairlady Z (S30) 1962",
+        "Details": {
+            "Description": "S30 Fairlady Z, restored",
+            "Price": "USD 125 955",
+            "Year": "1962",
+            "Country": "Japan",
+            "Mileage": "17 872 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/nissan-fairlady-z-s30-1962-c018"
+            }
+        }
+    },
+    {
+        "Title": "BMW E28 535i 1970",
+        "Details": {
+            "Description": "E28 535i, restored",
+            "Price": "USD 126 154",
+            "Year": "1970",
+            "Country": "Japan",
+            "Mileage": "73 208 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/bmw-e28-535i-1970-c019"
+            }
+        }
+    },
+    {
+        "Title": "Porsche 944 Turbo 1956",
+        "Details": {
+            "Description": "Turbocharged transaxle coupe",
+            "Price": "USD 81 049",
+            "Year": "1956",
+            "Country": "United States",
+            "Mileage": "131 662 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/porsche-944-turbo-1956-c020"
+            }
+        }
+    },
+    {
+        "Title": "Ford Sierra Cosworth 1955",
+        "Details": {
+            "Description": "Group A homologation, Concours",
+            "Price": "USD 122 977",
+            "Year": "1955",
+            "Country": "United Kingdom",
+            "Mileage": "241 170 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ford-sierra-cosworth-1955-c021"
+            }
+        }
+    },
+    {
+        "Title": "Ferrari F40 1953",
+        "Details": {
+            "Description": "F40, driver condition",
+            "Price": "USD 44 553",
+            "Year": "1953",
+            "Country": "Germany",
+            "Mileage": "130 205 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ferrari-f40-1953-c022"
+            }
+        }
+    },
+    {
+        "Title": "Jaguar XJ6 1975",
+        "Details": {
+            "Description": "XJ6 project, mid-production",
+            "Price": "USD 196 170",
+            "Year": "1975",
+            "Country": "Japan",
+            "Mileage": "90 515 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/jaguar-xj6-1975-c023"
+            }
+        }
+    },
+    {
+        "Title": "Porsche 944 Turbo 1952",
+        "Details": {
+            "Description": "Turbocharged transaxle driver",
+            "Price": "USD 330 964",
+            "Year": "1952",
+            "Country": "United Kingdom",
+            "Mileage": "106 892 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/porsche-944-turbo-1952-c024"
+            }
+        }
+    },
+    {
+        "Title": "BMW E30 M3 1975",
+        "Details": {
+            "Description": "Homologation M3, Concours",
+            "Price": "USD 347 873",
+            "Year": "1975",
+            "Country": "Italy",
+            "Mileage": "186 306 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/bmw-e30-m3-1975-c025"
+            }
+        }
+    },
+    {
+        "Title": "Ford Mustang Fastback 1956",
+        "Details": {
+            "Description": "Mustang Fastback, Concours",
+            "Price": "USD 86 503",
+            "Year": "1956",
+            "Country": "United States",
+            "Mileage": "81 807 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ford-mustang-fastback-1956-c026"
+            }
+        }
+    },
+    {
+        "Title": "BMW E28 535i 1968",
+        "Details": {
+            "Description": "E28 535i, driver condition",
+            "Price": "USD 349 488",
+            "Year": "1968",
+            "Country": "United Kingdom",
+            "Mileage": "44 686 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/bmw-e28-535i-1968-c027"
+            }
+        }
+    },
+    {
+        "Title": "Mercedes-Benz SL 560 1963",
+        "Details": {
+            "Description": "R107 SL 560, project condition",
+            "Price": "USD 140 819",
+            "Year": "1963",
+            "Country": "Japan",
+            "Mileage": "84 909 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/mercedes-benz-sl-560-1963-c028"
+            }
+        }
+    },
+    {
+        "Title": "Mercedes-Benz SEC 500 1962",
+        "Details": {
+            "Description": "W126 SEC 500, driver",
+            "Price": "USD 177 703",
+            "Year": "1962",
+            "Country": "Germany",
+            "Mileage": "189 478 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/mercedes-benz-sec-500-1962-c029"
+            }
+        }
+    },
+    {
+        "Title": "Porsche 911 Carrera 1953",
+        "Details": {
+            "Description": "Early Carrera, restored",
+            "Price": "USD 303 295",
+            "Year": "1953",
+            "Country": "Germany",
+            "Mileage": "203 308 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/porsche-911-carrera-1953-c030"
+            }
+        }
+    },
+    {
+        "Title": "Ferrari 250 GT 1959",
+        "Details": {
+            "Description": "250 GT coupe, Concours",
+            "Price": "USD 290 422",
+            "Year": "1959",
+            "Country": "Italy",
+            "Mileage": "115 751 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ferrari-250-gt-1959-c031"
+            }
+        }
+    },
+    {
+        "Title": "Jaguar XJ6 1982",
+        "Details": {
+            "Description": "XJ6 Series III, restored",
+            "Price": "USD 235 621",
+            "Year": "1982",
+            "Country": "United Kingdom",
+            "Mileage": "236 555 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/jaguar-xj6-1982-c032"
+            }
+        }
+    },
+    {
+        "Title": "Ferrari F40 1951",
+        "Details": {
+            "Description": "F40 Concours, factory spec",
+            "Price": "USD 209 858",
+            "Year": "1951",
+            "Country": "United Kingdom",
+            "Mileage": "156 165 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ferrari-f40-1951-c033"
+            }
+        }
+    },
+    {
+        "Title": "Ford GT40 1961",
+        "Details": {
+            "Description": "GT40, driver condition",
+            "Price": "USD 69 904",
+            "Year": "1961",
+            "Country": "Japan",
+            "Mileage": "193 161 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ford-gt40-1961-c034"
+            }
+        }
+    },
+    {
+        "Title": "Ford Sierra Cosworth 1980",
+        "Details": {
+            "Description": "Sierra Cosworth, driver",
+            "Price": "USD 107 513",
+            "Year": "1980",
+            "Country": "United States",
+            "Mileage": "25 622 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ford-sierra-cosworth-1980-c035"
+            }
+        }
+    },
+    {
+        "Title": "Porsche 944 Turbo 1982",
+        "Details": {
+            "Description": "944 Turbo, driver condition",
+            "Price": "USD 17 747",
+            "Year": "1982",
+            "Country": "United Kingdom",
+            "Mileage": "130 019 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/porsche-944-turbo-1982-c036"
+            }
+        }
+    },
+    {
+        "Title": "BMW E28 535i 1978",
+        "Details": {
+            "Description": "E28 535i, project condition",
+            "Price": "USD 258 187",
+            "Year": "1978",
+            "Country": "Italy",
+            "Mileage": "77 472 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/bmw-e28-535i-1978-c037"
+            }
+        }
+    },
+    {
+        "Title": "Nissan Fairlady Z (S30) 1980",
+        "Details": {
+            "Description": "S30 Fairlady Z, Concours",
+            "Price": "USD 239 692",
+            "Year": "1980",
+            "Country": "United States",
+            "Mileage": "96 463 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/nissan-fairlady-z-s30-1980-c038"
+            }
+        }
+    },
+    {
+        "Title": "Nissan 300ZX Z31 1976",
+        "Details": {
+            "Description": "Z31 300ZX, Concours",
+            "Price": "USD 224 552",
+            "Year": "1976",
+            "Country": "Italy",
+            "Mileage": "197 971 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/nissan-300zx-z31-1976-c039"
+            }
+        }
+    },
+    {
+        "Title": "Jaguar E-Type 1957",
+        "Details": {
+            "Description": "E-Type Convertible, Concours",
+            "Price": "USD 208 036",
+            "Year": "1957",
+            "Country": "United Kingdom",
+            "Mileage": "129 496 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/jaguar-e-type-1957-c040"
+            }
+        }
+    },
+    {
+        "Title": "Ford GT40 1972",
+        "Details": {
+            "Description": "GT40 coupe, restored",
+            "Price": "USD 48 086",
+            "Year": "1972",
+            "Country": "Italy",
+            "Mileage": "117 717 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ford-gt40-1972-c041"
+            }
+        }
+    },
+    {
+        "Title": "Ford Sierra Cosworth 1980",
+        "Details": {
+            "Description": "Sierra Cosworth V8, AWD",
+            "Price": "USD 204 109",
+            "Year": "1980",
+            "Country": "Italy",
+            "Mileage": "55 820 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ford-sierra-cosworth-1980-c042"
+            }
+        }
+    },
+    {
+        "Title": "Nissan Skyline GT-R (KPGC10) 1971",
+        "Details": {
+            "Description": "Hakosuka GT-R, project condition",
+            "Price": "USD 264 577",
+            "Year": "1971",
+            "Country": "Italy",
+            "Mileage": "185 735 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/nissan-skyline-gt-r-kpgc10-1971-c043"
+            }
+        }
+    },
+    {
+        "Title": "Mercedes-Benz 190E 1976",
+        "Details": {
+            "Description": "190E W201, driver",
+            "Price": "USD 281 984",
+            "Year": "1976",
+            "Country": "United States",
+            "Mileage": "218 705 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/mercedes-benz-190e-1976-c044"
+            }
+        }
+    },
+    {
+        "Title": "BMW E28 535i 1979",
+        "Details": {
+            "Description": "E28 535i, project condition",
+            "Price": "USD 346 703",
+            "Year": "1979",
+            "Country": "Japan",
+            "Mileage": "94 772 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/bmw-e28-535i-1979-c045"
+            }
+        }
+    },
+    {
+        "Title": "Ferrari 250 GT 1969",
+        "Details": {
+            "Description": "250 GT coupe, Concours",
+            "Price": "USD 115 563",
+            "Year": "1969",
+            "Country": "Germany",
+            "Mileage": "102 304 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ferrari-250-gt-1969-c046"
+            }
+        }
+    },
+    {
+        "Title": "Porsche 944 Turbo 1977",
+        "Details": {
+            "Description": "944 Turbo, project condition",
+            "Price": "USD 105 199",
+            "Year": "1977",
+            "Country": "United Kingdom",
+            "Mileage": "77 140 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/porsche-944-turbo-1977-c047"
+            }
+        }
+    },
+    {
+        "Title": "Mercedes-Benz SEC 500 1981",
+        "Details": {
+            "Description": "W126 SEC 500, restored",
+            "Price": "USD 178 008",
+            "Year": "1981",
+            "Country": "United States",
+            "Mileage": "65 447 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/mercedes-benz-sec-500-1981-c048"
+            }
+        }
+    },
+    {
+        "Title": "Porsche 911 Carrera 1981",
+        "Details": {
+            "Description": "911 Carrera, driver",
+            "Price": "USD 77 234",
+            "Year": "1981",
+            "Country": "Japan",
+            "Mileage": "203 484 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/porsche-911-carrera-1981-c049"
+            }
+        }
+    },
+    {
+        "Title": "Jaguar XJ6 1965",
+        "Details": {
+            "Description": "Early XJ6, driver condition",
+            "Price": "USD 94 414",
+            "Year": "1965",
+            "Country": "United States",
+            "Mileage": "149 463 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/jaguar-xj6-1965-c050"
+            }
+        }
+    },
+    {
+        "Title": "Jaguar E-Type 1978",
+        "Details": {
+            "Description": "E-Type Series III, driver",
+            "Price": "USD 349 028",
+            "Year": "1978",
+            "Country": "Italy",
+            "Mileage": "211 204 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/jaguar-e-type-1978-c051"
+            }
+        }
+    },
+    {
+        "Title": "Ford Sierra Cosworth 1966",
+        "Details": {
+            "Description": "Sierra Cosworth, driver condition",
+            "Price": "USD 155 193",
+            "Year": "1966",
+            "Country": "Japan",
+            "Mileage": "202 085 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ford-sierra-cosworth-1966-c052"
+            }
+        }
+    },
+    {
+        "Title": "Ferrari F40 1959",
+        "Details": {
+            "Description": "F40 in yellow, driver",
+            "Price": "USD 302 521",
+            "Year": "1959",
+            "Country": "United Kingdom",
+            "Mileage": "82 731 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ferrari-f40-1959-c053"
+            }
+        }
+    },
+    {
+        "Title": "Ferrari 308 GTS 1959",
+        "Details": {
+            "Description": "308 GTS Targa, Concours",
+            "Price": "USD 329 084",
+            "Year": "1959",
+            "Country": "United Kingdom",
+            "Mileage": "137 225 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ferrari-308-gts-1959-c054"
+            }
+        }
+    },
+    {
+        "Title": "Porsche 911 Carrera 1965",
+        "Details": {
+            "Description": "Early 911, project condition",
+            "Price": "USD 293 234",
+            "Year": "1965",
+            "Country": "United Kingdom",
+            "Mileage": "115 053 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/porsche-911-carrera-1965-c055"
+            }
+        }
+    },
+    {
+        "Title": "Jaguar E-Type 1973",
+        "Details": {
+            "Description": "E-Type roadster, late production",
+            "Price": "USD 103 048",
+            "Year": "1973",
+            "Country": "Germany",
+            "Mileage": "25 559 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/jaguar-e-type-1973-c056"
+            }
+        }
+    },
+    {
+        "Title": "Ford Mustang Fastback 1962",
+        "Details": {
+            "Description": "Mustang Fastback, restored",
+            "Price": "USD 131 451",
+            "Year": "1962",
+            "Country": "Italy",
+            "Mileage": "147 155 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ford-mustang-fastback-1962-c057"
+            }
+        }
+    },
+    {
+        "Title": "Mercedes-Benz SEC 500 1962",
+        "Details": {
+            "Description": "W126 SEC 500, restored",
+            "Price": "USD 343 370",
+            "Year": "1962",
+            "Country": "Germany",
+            "Mileage": "229 751 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/mercedes-benz-sec-500-1962-c058"
+            }
+        }
+    },
+    {
+        "Title": "Nissan Fairlady Z (S30) 1951",
+        "Details": {
+            "Description": "S30 Fairlady Z, high-spec",
+            "Price": "USD 208 956",
+            "Year": "1951",
+            "Country": "United Kingdom",
+            "Mileage": "205 239 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/nissan-fairlady-z-s30-1951-c059"
+            }
+        }
+    },
+    {
+        "Title": "Jaguar E-Type 1987",
+        "Details": {
+            "Description": "E-Type late production, driver",
+            "Price": "USD 188 315",
+            "Year": "1987",
+            "Country": "Italy",
+            "Mileage": "142 287 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/jaguar-e-type-1987-c060"
+            }
+        }
+    },
+    {
+        "Title": "Toyota MR2 AW11 1953",
+        "Details": {
+            "Description": "AW11 MR2, restored",
+            "Price": "USD 204 066",
+            "Year": "1953",
+            "Country": "United States",
+            "Mileage": "101 124 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/toyota-mr2-aw11-1953-c061"
+            }
+        }
+    },
+    {
+        "Title": "Toyota AE86 Sprinter Trueno 1962",
+        "Details": {
+            "Description": "AE86 Trueno, driver condition",
+            "Price": "USD 17 872",
+            "Year": "1962",
+            "Country": "United Kingdom",
+            "Mileage": "190 147 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/toyota-ae86-sprinter-trueno-1962-c062"
+            }
+        }
+    },
+    {
+        "Title": "BMW E28 535i 1974",
+        "Details": {
+            "Description": "E28 535i, driver condition",
+            "Price": "USD 109 962",
+            "Year": "1974",
+            "Country": "Germany",
+            "Mileage": "155 295 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/bmw-e28-535i-1974-c063"
+            }
+        }
+    },
+    {
+        "Title": "Nissan Fairlady Z (S30) 1989",
+        "Details": {
+            "Description": "S30 Fairlady Z, high-power",
+            "Price": "USD 44 895",
+            "Year": "1989",
+            "Country": "United States",
+            "Mileage": "64 909 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/nissan-fairlady-z-s30-1989-c064"
+            }
+        }
+    },
+    {
+        "Title": "Ferrari F40 1971",
+        "Details": {
+            "Description": "F40 Concours, silver",
+            "Price": "USD 304 752",
+            "Year": "1971",
+            "Country": "Italy",
+            "Mileage": "140 508 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ferrari-f40-1971-c065"
+            }
+        }
+    },
+    {
+        "Title": "Nissan 300ZX Z31 1984",
+        "Details": {
+            "Description": "Z31 300ZX, restored",
+            "Price": "USD 136 099",
+            "Year": "1984",
+            "Country": "Japan",
+            "Mileage": "243 270 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/nissan-300zx-z31-1984-c066"
+            }
+        }
+    },
+    {
+        "Title": "BMW E30 M3 1982",
+        "Details": {
+            "Description": "E30 M3, project condition condition",
+            "Price": "USD 178 474",
+            "Year": "1982",
+            "Country": "United States",
+            "Mileage": "222 858 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/bmw-e30-m3-1982-c067"
+            }
+        }
+    },
+    {
+        "Title": "Toyota AE86 Sprinter Trueno 1952",
+        "Details": {
+            "Description": "AE86 Trueno, restored",
+            "Price": "USD 53 714",
+            "Year": "1952",
+            "Country": "United States",
+            "Mileage": "234 956 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/toyota-ae86-sprinter-trueno-1952-c068"
+            }
+        }
+    },
+    {
+        "Title": "Jaguar XJ6 1954",
+        "Details": {
+            "Description": "Early XJ6, driver condition",
+            "Price": "USD 249 295",
+            "Year": "1954",
+            "Country": "United States",
+            "Mileage": "189 516 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/jaguar-xj6-1954-c069"
+            }
+        }
+    },
+    {
+        "Title": "Ford GT40 1990",
+        "Details": {
+            "Description": "GT40, driver condition",
+            "Price": "USD 316 585",
+            "Year": "1990",
+            "Country": "Japan",
+            "Mileage": "33 861 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ford-gt40-1990-c070"
+            }
+        }
+    },
+    {
+        "Title": "Jaguar XJ-S 1985",
+        "Details": {
+            "Description": "XJ-S coupe, restored",
+            "Price": "USD 325 092",
+            "Year": "1985",
+            "Country": "Italy",
+            "Mileage": "130 148 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/jaguar-xj-s-1985-c071"
+            }
+        }
+    },
+    {
+        "Title": "Ferrari 250 GT 1956",
+        "Details": {
+            "Description": "250 GT convertible, Concours",
+            "Price": "USD 336 014",
+            "Year": "1956",
+            "Country": "United Kingdom",
+            "Mileage": "129 563 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ferrari-250-gt-1956-c072"
+            }
+        }
+    },
+    {
+        "Title": "Mercedes-Benz W123 280E 1964",
+        "Details": {
+            "Description": "W123 280E, project condition",
+            "Price": "USD 169 116",
+            "Year": "1964",
+            "Country": "Japan",
+            "Mileage": "70 032 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1964-c073"
+            }
+        }
+    },
+    {
+        "Title": "Ferrari F40 1978",
+        "Details": {
+            "Description": "F40 project, high power",
+            "Price": "USD 98 263",
+            "Year": "1978",
+            "Country": "United Kingdom",
+            "Mileage": "202 743 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ferrari-f40-1978-c074"
+            }
+        }
+    },
+    {
+        "Title": "Ferrari 250 GT 1952",
+        "Details": {
+            "Description": "250 GT coupe, restored",
+            "Price": "USD 205 986",
+            "Year": "1952",
+            "Country": "Germany",
+            "Mileage": "135 513 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ferrari-250-gt-1952-c075"
+            }
+        }
+    },
+    {
+        "Title": "BMW E30 M3 1979",
+        "Details": {
+            "Description": "E30 M3, driver condition",
+            "Price": "USD 266 205",
+            "Year": "1979",
+            "Country": "United States",
+            "Mileage": "39 638 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/bmw-e30-m3-1979-c076"
+            }
+        }
+    },
+    {
+        "Title": "Porsche 911 Carrera 1962",
+        "Details": {
+            "Description": "911 Carrera, project condition",
+            "Price": "USD 168 221",
+            "Year": "1962",
+            "Country": "United States",
+            "Mileage": "174 886 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/porsche-911-carrera-1962-c077"
+            }
+        }
+    },
+    {
+        "Title": "Nissan 300ZX Z31 1970",
+        "Details": {
+            "Description": "Z31 300ZX, restored",
+            "Price": "USD 54 668",
+            "Year": "1970",
+            "Country": "Japan",
+            "Mileage": "188 121 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/nissan-300zx-z31-1970-c078"
+            }
+        }
+    },
+    {
+        "Title": "BMW E30 M3 1962",
+        "Details": {
+            "Description": "E30 M3, Concours",
+            "Price": "USD 38 102",
+            "Year": "1962",
+            "Country": "United Kingdom",
+            "Mileage": "82 600 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/bmw-e30-m3-1962-c079"
+            }
+        }
+    },
+    {
+        "Title": "BMW 2002 1970",
+        "Details": {
+            "Description": "BMW 2002, restored",
+            "Price": "USD 220 508",
+            "Year": "1970",
+            "Country": "Japan",
+            "Mileage": "137 568 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/bmw-2002-1970-c080"
+            }
+        }
+    },
+    {
+        "Title": "Ferrari 250 GT 1950",
+        "Details": {
+            "Description": "250 GT, early production",
+            "Price": "USD 228 180",
+            "Year": "1950",
+            "Country": "Japan",
+            "Mileage": "110 957 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ferrari-250-gt-1950-c081"
+            }
+        }
+    },
+    {
+        "Title": "Jaguar XJ6 1974",
+        "Details": {
+            "Description": "XJ6, low mileage driver",
+            "Price": "USD 30 601",
+            "Year": "1974",
+            "Country": "Japan",
+            "Mileage": "33 941 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/jaguar-xj6-1974-c082"
+            }
+        }
+    },
+    {
+        "Title": "Ford Sierra Cosworth 1976",
+        "Details": {
+            "Description": "Sierra Cosworth, driver",
+            "Price": "USD 157 822",
+            "Year": "1976",
+            "Country": "Japan",
+            "Mileage": "122 536 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ford-sierra-cosworth-1976-c083"
+            }
+        }
+    },
+    {
+        "Title": "Mercedes-Benz 190E 1980",
+        "Details": {
+            "Description": "190E, restored, high output",
+            "Price": "USD 85 476",
+            "Year": "1980",
+            "Country": "United States",
+            "Mileage": "159 167 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/mercedes-benz-190e-1980-c084"
+            }
+        }
+    },
+    {
+        "Title": "Ford Sierra Cosworth 1965",
+        "Details": {
+            "Description": "Sierra Cosworth AWD, driver",
+            "Price": "USD 262 719",
+            "Year": "1965",
+            "Country": "Germany",
+            "Mileage": "243 755 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ford-sierra-cosworth-1965-c085"
+            }
+        }
+    },
+    {
+        "Title": "BMW E24 635CSi 1985",
+        "Details": {
+            "Description": "E24 635CSi, restored",
+            "Price": "USD 88 474",
+            "Year": "1985",
+            "Country": "Italy",
+            "Mileage": "45 883 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/bmw-e24-635csi-1985-c086"
+            }
+        }
+    },
+    {
+        "Title": "Ford Mustang Fastback 1977",
+        "Details": {
+            "Description": "Mustang Fastback, Concours",
+            "Price": "USD 73 056",
+            "Year": "1977",
+            "Country": "Japan",
+            "Mileage": "71 037 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ford-mustang-fastback-1977-c087"
+            }
+        }
+    },
+    {
+        "Title": "Mercedes-Benz SEC 500 1965",
+        "Details": {
+            "Description": "W126 SEC 500, project condition",
+            "Price": "USD 265 704",
+            "Year": "1965",
+            "Country": "Germany",
+            "Mileage": "127 489 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/mercedes-benz-sec-500-1965-c088"
+            }
+        }
+    },
+    {
+        "Title": "BMW E28 535i 1959",
+        "Details": {
+            "Description": "E28 535i, low mileage",
+            "Price": "USD 245 217",
+            "Year": "1959",
+            "Country": "United States",
+            "Mileage": "32 163 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/bmw-e28-535i-1959-c089"
+            }
+        }
+    },
+    {
+        "Title": "Mercedes-Benz SL 560 1979",
+        "Details": {
+            "Description": "R107 SL 560, restored",
+            "Price": "USD 297 732",
+            "Year": "1979",
+            "Country": "Japan",
+            "Mileage": "142 353 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/mercedes-benz-sl-560-1979-c090"
+            }
+        }
+    },
+    {
+        "Title": "BMW 2002 1974",
+        "Details": {
+            "Description": "BMW 2002, restored",
+            "Price": "USD 58 380",
+            "Year": "1974",
+            "Country": "United States",
+            "Mileage": "203 903 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/bmw-2002-1974-c091"
+            }
+        }
+    },
+    {
+        "Title": "Jaguar XJ6 1973",
+        "Details": {
+            "Description": "XJ6, Concours condition",
+            "Price": "USD 282 023",
+            "Year": "1973",
+            "Country": "United States",
+            "Mileage": "87 371 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/jaguar-xj6-1973-c092"
+            }
+        }
+    },
+    {
+        "Title": "Toyota MR2 AW11 1952",
+        "Details": {
+            "Description": "AW11 MR2, restored",
+            "Price": "USD 265 373",
+            "Year": "1952",
+            "Country": "Germany",
+            "Mileage": "27 208 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/toyota-mr2-aw11-1952-c093"
+            }
+        }
+    },
+    {
+        "Title": "Porsche 356 1973",
+        "Details": {
+            "Description": "Porsche 356, project condition",
+            "Price": "USD 188 422",
+            "Year": "1973",
+            "Country": "Germany",
+            "Mileage": "70 725 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/porsche-356-1973-c094"
+            }
+        }
+    },
+    {
+        "Title": "BMW E30 M3 1989",
+        "Details": {
+            "Description": "E30 M3, late production",
+            "Price": "USD 258 239",
+            "Year": "1989",
+            "Country": "Italy",
+            "Mileage": "226 990 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/bmw-e30-m3-1989-c095"
+            }
+        }
+    },
+    {
+        "Title": "Ford Sierra Cosworth 1985",
+        "Details": {
+            "Description": "Sierra Cosworth, driver condition",
+            "Price": "USD 157 520",
+            "Year": "1985",
+            "Country": "United Kingdom",
+            "Mileage": "137 129 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ford-sierra-cosworth-1985-c096"
+            }
+        }
+    },
+    {
+        "Title": "Porsche 928 S4 1971",
+        "Details": {
+            "Description": "928 S4, project condition",
+            "Price": "USD 212 637",
+            "Year": "1971",
+            "Country": "Germany",
+            "Mileage": "233 990 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/porsche-928-s4-1971-c097"
+            }
+        }
+    },
+    {
+        "Title": "Ford Sierra Cosworth 1951",
+        "Details": {
+            "Description": "Sierra Cosworth, restored",
+            "Price": "USD 106 642",
+            "Year": "1951",
+            "Country": "United States",
+            "Mileage": "73 565 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ford-sierra-cosworth-1951-c098"
+            }
+        }
+    },
+    {
+        "Title": "Porsche 911 Carrera 1957",
+        "Details": {
+            "Description": "911 Carrera, low mileage",
+            "Price": "USD 221 588",
+            "Year": "1957",
+            "Country": "United Kingdom",
+            "Mileage": "24 400 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/porsche-911-carrera-1957-c099"
+            }
+        }
+    },
+    {
+        "Title": "Ford GT40 1989",
+        "Details": {
+            "Description": "GT40, driver condition",
+            "Price": "USD 34 655",
+            "Year": "1989",
+            "Country": "United Kingdom",
+            "Mileage": "162 554 km",
+            "For more info link is here": {
+                "Link": "https://webscraper.io/test-sites/product/ford-gt40-1989-c100"
+            }
+        }
+    }
+]
